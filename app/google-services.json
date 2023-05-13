@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656742561853",
+    "project_id": "rockvideocall",
+    "storage_bucket": "rockvideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656742561853:android:40f79a19bfc9217d3d1254",
+        "android_client_info": {
+          "package_name": "com.android.vcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656742561853-fjv38jr3tgiin4a5i8nffue0ek15v0g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIeHC9ftryA9cgm4dRDkbZGotpnC3PW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656742561853-fjv38jr3tgiin4a5i8nffue0ek15v0g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

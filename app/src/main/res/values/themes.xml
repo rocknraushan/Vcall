@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Vcall" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Vcall" parent="Base.Theme.Vcall" />
+
+    <style name="costom_cardView_style" parent="Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/costom_cardView</item>
+
+    </style>
+
+    <style name="costom_cardView" parent="">
+
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">48dp</item>
+        <item name="cornerSizeTopRight">48dp</item>
+
+    </style>
+</resources>
